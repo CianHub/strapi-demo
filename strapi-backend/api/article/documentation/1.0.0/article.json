@@ -528,6 +528,9 @@
           "content": {
             "type": "string"
           },
+          "slug": {
+            "type": "uid"
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -541,6 +544,9 @@
           },
           "content": {
             "type": "string"
+          },
+          "slug": {
+            "type": "uid"
           },
           "published_at": {
             "type": "string",
